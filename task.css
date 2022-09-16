@@ -1,0 +1,41 @@
+body { 
+    background-color: blanchedalmond;
+    color:blueviolet;
+}
+
+h1{ 
+    font-family: 'Bungee Spice', cursive;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Lobster&family=Nabla&display=swap');
+
+.ingredients { 
+width: 50%;
+margin: 0 auto;
+}
+
+.instructions {
+    width: 40%;
+    text-align: left;
+}
+
+.ingredients-table { 
+margin: 0 auto;
+width: 38%
+}
+
+td{ 
+padding: 5px;
+}
+
+.instructions ol { 
+margin: 0 auto ;
+width: 100%;
+text-align: left;
+}
+
+img {
+    border-radius: 75px;
+    width: 500px;
+    padding-bottom: 50px;
+  }
